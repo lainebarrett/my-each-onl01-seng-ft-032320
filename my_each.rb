@@ -7,3 +7,5 @@ def my_each(array)
   end
 collection << yeild(array[i])
 end
+collection << yeild(array[i])
+end
